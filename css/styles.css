@@ -63,8 +63,6 @@ a{text-decoration: none;}
     background: #2e2f42;
 }
     .effective-title {
-    width: 1440px;
-    height: 600px;    
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -146,7 +144,8 @@ color: #434455;
     background-color: #F4F4FD
 }
 
-.portfolio-list {background-color: #FFFFFF}
+.portfolio-list {
+background-color: #FFFFFF;}
 .portfolio-title {
 font-weight: 700;
 font-size: 36px;
@@ -154,7 +153,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-text-transform: capitalize
+text-transform: capitalize;
 
 }
 
