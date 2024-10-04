@@ -1,7 +1,7 @@
 body {font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #fff;
-    border-bottom: 1px solid #e7e9fc;}
+   }
      
 
 ul {list-style: none;}
@@ -141,7 +141,7 @@ color: #434455;
 
 /*---------------portfolio-----------------*/
 .portfolio {
-    background-color: #F4F4FD
+    background-color: #F4F4FD;
 }
 
 .portfolio-list {
